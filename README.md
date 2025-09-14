@@ -1,4 +1,3 @@
-# Scholarship-Test-Analysis-Excel-Project-
 # Scholarship Test Analysis (Excel Project)
 
 This repo contains **Excel-based analysis** of the "Worksheet for 3rd activity.xlsx".  
